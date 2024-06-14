@@ -62,7 +62,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuestParts.cs" />
     <Compile Include="Quests.cs" />
-    <Compile Include="RelocationUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />

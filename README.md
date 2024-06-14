@@ -8,6 +8,8 @@ This is a mod for Rimworld that adds an alternative version of the archonexus qu
 
 ## Contributing
 
+The repository for this project is available on github: https://github.com/exokem/rimworld-alternate-archonexus
+
 Clone the repo to a subfolder of the main Rimworld install directory, wherever it is on your system.
 
 You can also put the development version of the mod directly in your Mods folder.
