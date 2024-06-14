@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/StorytellerDef[@Name="BaseStoryteller"]/comps</xpath>
+    <value>
+      <li Class="StorytellerCompProperties_RefiringUniqueQuest">
+        <minColonyWealth>150000</minColonyWealth>
+        <minDaysPassed>0</minDaysPassed>
+        <incident MayRequire="Ludeon.RimWorld.Ideology">GiveQuest_EndGame_AlternateArchonexusVictory</incident>
+        <allowedTargetTags>
+          <li>World</li>
+        </allowedTargetTags>
+        <enableIfAnyModActive>
+          <li>Ludeon.RimWorld.Ideology</li>
+        </enableIfAnyModActive>
+      </li>
+    </value>
+  </Operation>
+</Patch>
