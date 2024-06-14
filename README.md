@@ -3,7 +3,17 @@
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## Overview
+
 This is a mod for Rimworld that adds an alternative version of the archonexus quest without the requirement that everything be sold in exchange for each map piece.
+
+## Contributing
+
+Clone the repo to a subfolder of the main Rimworld install directory, wherever it is on your system.
+
+You can also put the development version of the mod directly in your Mods folder.
+
+
+For example: `D:/SteamLibrary/steamapps/common/Rimworld/<your-directory-here>/AlternateArchonexus`
 
 ## License
 
